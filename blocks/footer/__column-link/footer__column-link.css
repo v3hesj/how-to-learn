@@ -4,4 +4,10 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
+  transition: .3s ease-in;
+}
+
+.footer__column-link:hover {
+  text-decoration: none;
+  opacity: 0.8;
 }
